@@ -1,0 +1,24 @@
+* {
+    font-family: "Verdana", serif;
+    font-size: 15px;
+    background-color: honeydew;
+    text-align: center;
+}
+
+h1, h2, strong {
+    font-family: "Georgia", serif;
+    color: blueviolet;
+    font-weight: bolder;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+li {
+    text-align: left;
+}
