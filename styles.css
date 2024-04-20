@@ -19,6 +19,19 @@ h2 {
     font-size: 20px;
 }
 
-li {
-    text-align: left;
+div.ingredients {
+    text-align: center;
+}
+
+div.steps {
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    list-style-type: none;
+}
+
+ol {
+    display: inline-block;
 }
